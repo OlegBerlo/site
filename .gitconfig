@@ -1,0 +1,11 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Oleg Berlo
+	email = oleg.berlo@ukr.net
+	emal = oleg.berlo@ukr.net
+[init]
+	defaultBranch = main

@@ -1,0 +1,31 @@
+{
+	"7CXqigOe": {
+		"name": "web",
+		"src": "C:\\For programmin\\web",
+		"config": {},
+		"files": {
+			"C:\\For programmin\\web\\scss\\style.scss": {
+				"id": "cppOeHLU",
+				"pid": "7CXqigOe",
+				"compiler": "sass",
+				"name": "style.scss",
+				"src": "C:\\For programmin\\web\\scss\\style.scss",
+				"output": "C:\\For programmin\\web\\scss\\style.css",
+				"compile": true,
+				"watch": true,
+				"category": "style",
+				"settings": {
+					"compass": false,
+					"sourceMap": false,
+					"lineComments": false,
+					"debugInfo": false,
+					"unixNewlines": false,
+					"autoprefix": false,
+					"autoprefixConfig": "",
+					"outputStyle": "expanded"
+				}
+			}
+		},
+		"id": "7CXqigOe"
+	}
+}
